@@ -8,5 +8,6 @@
 </head>
 <body>
     <h2>Student Data</h2>
+    <input type="text" name ="name" value="data">
 </body>
 </html>
